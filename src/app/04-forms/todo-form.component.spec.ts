@@ -1,15 +1,11 @@
-import { TodoFormComponent } from './todo-form.component'; 
+import { TodoFormComponent } from './todo-form.component';
 
 describe('TodoFormComponent', () => {
-  var component: TodoFormComponent; 
+  let component: TodoFormComponent;
 
-  beforeEach(() => {
+  beforeEach(() => {});
 
-  });
+  it('', () => {});
 
-  it('', () => {
-  });
-
-  it('', () => {
-  });
+  it('', () => {});
 });
